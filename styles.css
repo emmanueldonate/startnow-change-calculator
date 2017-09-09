@@ -1,0 +1,46 @@
+html { 
+    width: 100%;
+    height: 100;
+}
+body {
+    width:100%;
+    height:100%;
+    align-content: center;
+    background-color: gray;
+}
+
+table {
+    border-style: solid;
+    border-color: black;
+    background-color: blue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.dollar {
+    text-align: center;
+    background-color: white;
+}
+
+#buttonbox {
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#calculate{
+    width: 30%;
+     text-align: center;
+}
+
+.right {
+    float: right;
+    
+}
+
+.mid {
+    text-align: center;
+}
